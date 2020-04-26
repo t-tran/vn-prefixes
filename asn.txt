@@ -1,0 +1,366 @@
+ASN 	Name 	Num IPs
+AS45899 	VNPT Corp 	7,381,504
+AS7552 	Viettel Group 	5,973,504
+AS18403 	The Corporation for Financing & Promoting Technology 	1,428,992
+AS24086 	Viettel Corporation 	743,424
+AS45543 	SaiGon Tourist cable Televition Company 	196,608
+AS7602 	Saigon Postel Corporation 	124,928
+AS45903 	CMC Telecom Infrastructure Company 	78,592
+AS24173 	Netnam Company 	65,536
+AS38731 	Vietel - CHT Compamy Ltd 	44,032
+AS135905 	VIETNAM POSTS AND TELECOMMUNICATIONS GROUP 	41,216
+AS38244 	Trung tam VNNIC 	34,816
+AS38735 	Global Data Service Joint Stock Company 	32,768
+AS131429 	MOBIFONE Corporation 	29,952
+AS24085 	Quang Trung Software City Development Company 	24,320
+AS38726 	VTC DIGICOM 	20,480
+AS24088 	Hanoi Telecom Joint Stock Company - HCMC Branch 	19,712
+AS131392 	GMO-Z.com Runsystem Joint Stock Company 	19,456
+AS45538 	Online data services 	18,432
+AS7643 	Vietnam Posts and Telecommunications (VNPT) 	18,176
+AS45544 	SUPERDATA-VN 	14,336
+AS38248 	VTC-VN 	14,336
+AS45539 	VTCWLB-VN 	10,240
+AS45896 	Mobifone Global JSC 	8,192
+AS24175 	National Agency for Scientific and Technological Information 	8,192
+AS55322 	North Power Company 	8,192
+AS38733 	CMC Telecom Infrastructure Company 	7,936
+AS45894 	FPT Online JSC 	7,680
+AS38732 	CMC Telecom Infrastructure Company 	7,424
+AS55313 	Hanel Communication JSC 	6,912
+AS131353 	NhanHoa Software company 	6,144
+AS63731 	TIEN PHAT TECHNOLOGY CORPORATION 	6,144
+AS38247 	Vietnamobile Telecommunications Joint Stock Company 	6,144
+AS45557 	Vietnam Technology and Telecommunication JSC 	5,120
+AS135932 	Viet Storage Technology Joint Stock Company 	4,864
+AS56150 	Viet Solutions Services Trading Company Limited 	4,608
+AS131127 	Global Telecom Corp 	4,352
+AS45542 	VietNam National University Ha Noi 	4,096
+AS135918 	VIET DIGITAL TECHNOLOGY LIABILITY COMPANY 	4,096
+AS55309 	Minh Tu Telecom Limited Company 	4,096
+AS63747 	Central Post and Telecommunication (CPT) 	4,096
+AS131388 	Vietnam HTS., JSC 	4,096
+AS131414 	Long Van Soft Solution JSC 	3,584
+AS131386 	Long Van System Solution JSC 	3,584
+AS63741 	DCNET Telecommunication joint stock company 	3,072
+AS131428 	Rainbow E-Commerce Company Limited 	2,560
+AS63761 	Cong ty TNHH Dich vu truc tuyen Maxdata 	2,304
+AS131427 	AOHOAVIET-VN 	2,048
+AS135944 	VinhNam Commercial informatics service corporation 	2,048
+AS24066 	Vietnam Internet Network Information Center 	2,048
+AS131423 	Branch of Long Van System Solution JSC - Hanoi 	2,048
+AS56155 	Tuong Minh service private enterprise 	2,048
+AS38738 	L.C.S Company.,ltd 	2,048
+AS23902 	Vietnam Internet network information center (VNNIC) 	2,048
+AS135951 	Webico Company Limited 	2,048
+AS63760 	AZDIGI Corporation 	2,048
+AS131410 	Vietnam Television Cable Corporation One Member Company Limited 	2,048
+AS45546 	Gtel Mobile Joint Stock Company 	2,048
+AS56147 	Creative Communication Vietnam Joint Stock Company 	2,048
+AS135942 	Adsota Corporation 	2,048
+AS63765 	Ligh technology viet joint stock company 	2,048
+AS45552 	DTS Communication Technologies Corporation 	2,048
+AS56149 	Cong ty CP Truyen thong quoc te Incom 	2,048
+AS131367 	Viet Online trading service corporation 	2,048
+AS56141 	Danang ICT Infrastructure Development Center 	2,048
+AS56146 	Global informatics solution corporation 	2,048
+AS135915 	TLSOFT 	2,048
+AS63733 	VIETNAM LEAGUE OF LEGENDS 	2,048
+AS56151 	DigiStar Company Limited 	2,048
+AS131435 	Vietnam Esports and Entertainment Joint Stock Company 	2,048
+AS131349 	Digital telecomminication service joint stock 	2,048
+AS135920 	Ehost software company limited 	1,792
+AS131418 	Vietnam Esports Development Joint Stock Company 	1,792
+AS135916 	KIENPHONGITS 	1,536
+AS131396 	Rmit International University Vietnam 	1,536
+AS45547 	SPT Telecommunications Service Center 	1,280
+AS131402 	FPT Software Company limited 	1,280
+AS135919 	MB SHINSEI Finance Limited Liability Company 	1,024
+AS135921 	Maxserver Company Limited 	1,024
+AS135922 	Clearsky Service Solutions Company Limited 	1,024
+AS135923 	SCTV INFRASTRUCTURE BUSINESS INVESMENT COMPANY LIMITED 	1,024
+AS135924 	FWD Vietnam Life Insurance Company Limited 	1,024
+AS135925 	16 Au Co, Tan Son Nhi Ward, Tan Phu District, Ho Chi Minh city (EVNSPC Building) 	1,024
+AS135926 	Phu Nhuan Jewelry Joint Stock Company 	1,024
+AS135927 	Phu Quoc Petroleum Operating Company 	1,024
+AS63732 	FIM PLUS DIGITAL JOINT STOCK COMPANY 	1,024
+AS135929 	International Education Corporation 	1,024
+AS63730 	VNSO TECHNOLOGY COMPANY 	1,024
+AS56159 	Sai Gon Join stock commercial Bank 	1,024
+AS135934 	ICT Center - Dong Thap Department of Information and Communications 	1,024
+AS135936 	LABO A&B Joint Stock Company 	1,024
+AS135937 	Next Technology Investment and Development Company Limited 	1,024
+AS135938 	Home Credit Viet nam Finance Company Limited 	1,024
+AS135939 	VNPT Electronic Payment Joint Stock Company 	1,024
+AS135940 	Nice Tech Center Vietnam Limited Company 	1,024
+AS56158 	Digital world data online company 	1,024
+AS135943 	Truong Minh Thinh Online Trading And Service Co., Ltd 	1,024
+AS135946 	Long An Department of Information and Communications 	1,024
+AS135949 	Cloudfone Viet Nam Joint Stock Company 	1,024
+AS135953 	Vietnam Online Network Solution Joint Stock Compnay 	1,024
+AS135955 	Center Manage electronic information, Lam Dong Department of Information and Communications 	1,024
+AS135956 	The Authority of Information Technology - Ministry of Health 	1,024
+AS135958 	Teko Vietnam Technology Joint Stock Company 	1,024
+AS135959 	Onebim Vietnam Limited Company 	1,024
+AS135961 	Viet Nam Data Online Joint Stock Company 	1,024
+AS135963 	Information Center - Ministry of Labour - Invalids and Social Affairs 	1,024
+AS56148 	Pertrovietnam finance joint stock corporation 	1,024
+AS131390 	Vietnam E-commerce Development Centre 	1,024
+AS38727 	Ha Noi University of Technology 	1,024
+AS45541 	Information Technology Center - Joint Stock Commercial Bank for Investment and Development of Vietnam 	1,024
+AS38730 	VIETINBANK-VN 	1,024
+AS38736 	Vietnam Internet network information center (VNNIC) 	1,024
+AS38737 	Vietnam Internet network information center (VNNIC) 	1,024
+AS45540 	ADTEC Media Joint Stock Company 	1,024
+AS63768 	Thien Binh Software Service Company Limited 	1,024
+AS131351 	Orient commercial joint stock bank 	1,024
+AS131352 	Vietnam Cybersecurity Emergency Response Teams/Coordination Center 	1,024
+AS131126 	Vietnam Airlines Corp 	1,024
+AS131358 	Telehouse international corporation of vietnam 	1,024
+AS63767 	GCAFE 	1,024
+AS131360 	VietNam national financial switching joint stock company 	1,024
+AS131364 	Military commercial join stock bank 	1,024
+AS131365 	Department Of Information Technology and Data of Natural Resources and Environment 	1,024
+AS131368 	Petro Viet Nam Oil Corporation 	1,024
+AS131371 	BaoMinh securities company 	1,024
+AS131372 	VIVAS-VN 	1,024
+AS131373 	Information Center - Ministry of Science and Technology 	1,024
+AS131374 	Hong Quang Trading Investment Company Limited 	1,024
+AS131375 	Trung tam Thong tin Bo TT & TT 	1,024
+AS131377 	DIGIPOWER CO., LTD 	1,024
+AS63764 	INCOM SAI GON JOINT STOCK COMPANY 	1,024
+AS131379 	Ocean Commercial Joint Stock Bank 	1,024
+AS131380 	Niteco VN 	1,024
+AS131381 	Customs IT and Statistics Department - General Department of Vietnam Customs 	1,024
+AS63762 	VietNam Booking corporation 	1,024
+AS131383 	PVI Holdings 	1,024
+AS131385 	VTV-VN 	1,024
+AS131389 	SeABank 	1,024
+AS131391 	Vietnam-Asia Commercial Joint Stock Bank 	1,024
+AS63759 	TaDu Joint Stock Company 	1,024
+AS131397 	Hanoi Medical University 	1,024
+AS131398 	Lotte Data Communication Company Limited 	1,024
+AS63758 	VETC Corporation 	1,024
+AS63757 	Pacific Technology Development and Communication joint stock company 	1,024
+AS131401 	Department of Information and Communication of Vinh Phuc 	1,024
+AS131403 	ICSOFT Joint Stock Company 	1,024
+AS131404 	Masters Technology Corporation 	1,024
+AS131407 	Sai Gon CTT 	1,024
+AS131408 	TPBANK-VN 	1,024
+AS63755 	VietNam - Russia joint venture bank 	1,024
+AS63754 	VMG MEDIA JOINT STOCK COMPANY 	1,024
+AS131412 	State Audit Office of Vietnam 	1,024
+AS131413 	VinCommerce General Commercial Services Joint Stock Company 	1,024
+AS131415 	Vietnam Internet network information center (VNNIC) 	1,024
+AS131417 	Vietnam National Coaland Mineral Industries Holding Corporation Limited 	1,024
+AS131419 	Smartlink Card., JSC 	1,024
+AS63752 	Hoa Binh Department of Information and Communications 	1,024
+AS131421 	Intercom Telecom., JSC 	1,024
+AS63751 	Vietcombank securities Company limited 	1,024
+AS63749 	Luxoft VietNam Company LTD 	1,024
+AS131425 	The gioi di dong jsc 	1,024
+AS131426 	MISA-VN 	1,024
+AS131430 	Bao Viet bank 	1,024
+AS131431 	Information Center - Vietnam Cooperation Alliance 	1,024
+AS63748 	Cuc An Toan Thong Tin- Bo Thong tin va Truyen thong 	1,024
+AS131342 	Vietnam Technological and Commercial Joint-stock Bank - Techcombank 	1,024
+AS131434 	Scom Technology Join stock company 	1,024
+AS131437 	DT Communications company limited 	1,024
+AS131438 	VIETNAM POST 	1,024
+AS131439 	VietNam credit information joint stock company 	1,024
+AS131343 	Vietnam Internationl commercial joint stock bank 	1,024
+AS63746 	Institute of Information Technology (IOIT) 	1,024
+AS135900 	HaNoi State data center 	1,024
+AS63744 	DAINAM Securities Company 	1,024
+AS63742 	BIDV Securities joint stock company 	1,024
+AS63740 	TOCDOSOVN-VN 	1,024
+AS63735 	Hoatoc company limited 	1,024
+AS135908 	ECONET VIETNAM CORPORATION 	1,024
+AS135909 	Information Technology Park - Vietnam National University Ho Chi Minh City 	1,024
+AS63734 	365 Online technology joint stock company 	1,024
+AS135911 	VietNam maritime commercial joint stock bank 	1,024
+AS135913 	MB Ages life insurance company limited 	1,024
+AS135917 	Cong ty TNHH Web Panda 	1,024
+AS55308 	Informatics Center-Ministry of Planning and Investment 	1,024
+AS55306 	Vietnam bank for Agriculture anh Rural Development 	1,024
+AS63769 	Information and Communication Technology Center of Bac Kan Province 	1,024
+AS55305 	ODS Joint Stock Company 	1,024
+AS23962 	Vietnam Internet Network Information Center 	1,024
+AS24089 	Vietnam Internet Network Information Center 	1,024
+AS131348 	Joint stock Commercial Bank for Foreign Trade of Viet Nam 	1,024
+AS38249 	KIS Viet Nam Securities Corporations 	1,024
+AS135945 	VTC Online Joint Stock Company 	768
+AS135954 	Five9 Vietnam Corporation 	768
+AS131362 	HaNoi Stock Exchange 	768
+AS56153 	Digital Storage Company Limited 	768
+AS63756 	VSTV-VN 	768
+AS131363 	Department of Information Technology - General Department of Taxation 	768
+AS131405 	Saigon Newport 	768
+AS135957 	Thua Thien Hue Electronic Data and Digital Information Center 	768
+AS23999 	Vietnam News Agency 	768
+AS131357 	Duy Tan University 	768
+AS135991 	Green Network Solutions LTD. 	512
+AS55311 	LienViet Post Joint stock Commercial Bank 	512
+AS135964 	RVC Rong Viet Trade Service Telecom Company Limited 	512
+AS135994 	IDC Online Technology and Solutions Corporation 	512
+AS135997 	EVN Finance Joint Stock Company - Ho Chi Minh Branch 	512
+AS131361 	GSS Investment Corporation 	512
+AS135999 	ITCPLUS Vietnam Joint Stock Company 	512
+AS135952 	VPS Securities Joint Stock Company 	512
+AS135947 	Shopee Company Limited 	512
+AS131356 	Pegasus Technology Joint Stock Company 	512
+AS131347 	Shinhan Viet Nam Bank Limited 	512
+AS135935 	Binh Minh Software Service Company Limited 	512
+AS135912 	VNETWORK Joint Stock Company 	512
+AS63753 	Viet Nam Lottery One Member Company Limited 	512
+AS38252 	CAPGEMINI VIETNAM CO., LTD 	512
+AS38251 	VNDirect Securities Corporation 	512
+AS131387 	Sun Life Vietnam Insurance Company Limited 	512
+AS131376 	KB Securities Vietnam Joint Stock Company 	512
+AS131130 	MB securities joint stock company 	512
+AS45548 	Artex Securities Joint Stock Company 	512
+AS135972 	Quang Nam Department of Information and Communications 	512
+AS135974 	National Power Transmission Corporation 	512
+AS135971 	PetroVietNam Securities Joint Stock Company 	512
+AS135976 	CLO Technology Limited Company 	512
+AS135977 	Vietnam BDA technology and communication joint stock company 	512
+AS135978 	Hanoi University of Industry 	512
+AS135970 	NPS Technology Co., ltd. 	512
+AS135981 	VisualViet Company Limited 	512
+AS135980 	Information and Communication Technology Center of Quang Ninh 	512
+AS135982 	Hoi An South Development Ltd 	512
+AS135969 	Sen Do Technology Joint Stock Company 	512
+AS55318 	Asia Commercial Bank 	512
+AS135985 	BCALL Viet Nam Company Limited 	512
+AS135986 	Turbo Technology Solution Joint Stock Company 	512
+AS55317 	170 Hai Ba Trung, DaKao Ward, District 1, Hochiminh City 	512
+AS131345 	KienLong commercial joint stock bank 	512
+AS55315 	Sai Gon Securities Incorporation 	512
+AS135965 	VNPT Net Corporation - VNPT Group 	512
+AS131122 	Vietnam Internet network information center (VNNIC) 	256
+AS131123 	Vietnam Internet network information center (VNNIC) 	256
+AS131124 	Vietnam Bank For Social Policies 	256
+AS131125 	TVSI-VN 	256
+AS131128 	Onepay Online Service and Commercial Joint Stock Company 	256
+AS131354 	Prudential Vietnam Assurance Private limited 	256
+AS131355 	IGI-VN 	256
+AS131366 	Lanit Technology and Communication Joint Stock Company 	256
+AS131369 	Ministry of Agriculture and Rural Development 	256
+AS131394 	Cloudovs Vietnam Technology Joint Stock Company 	256
+AS131433 	Corporation Technology Development Eposi 	256
+AS131440 	Nguyen Bao Digital Company Limited 	256
+AS135962 	Dong Duong Securitites Incorporation 	256
+AS135988 	Sun Group Corporation 	256
+AS135998 	International Distribution Corporation 	256
+AS24035 	Ministry of Foreign Affairs of Vietnam - MOFA 	256
+AS24174 	Dong A Commercial Join Stock Bank 	256
+AS45550 	NGT-AS-VN 	256
+AS45551 	HEINEKEN VIETNAM BREWERY LIMITED COMPANY 	256
+AS45556 	Scancom Vietnam Ltd 	256
+AS45900 	Department of Infomatic - The State Bank of Viet Nam 	256
+AS45901 	Vietnam Export Import Commercial JSC 	256
+AS45902 	Hai Phong Securities Company 	256
+AS55307 	Asian Pacific Securitis Joint Stock Company 	256
+AS55310 	KCS VIETNAM COMPANY LIMITED 	256
+AS55312 	Golden Dragon Company 	256
+AS55316 	Saigon - Hanoi Commercial Joint Stock Bank 	256
+AS55319 	VietNam Prosperity Joint Stock Commercial Bank 	256
+AS55323 	Viet Nam Bank for Industry and Trade Securities JSC 	256
+AS55324 	Premier Oil Viet Nam Offshore B.V 	256
+AS56142 	BP Exploration Operating Company 	256
+AS56144 	AIA Life Insurance Company limited 	256
+AS56157 	One Vision Investment Trading Service Corporation 	256
+AS63736 	Nam A Commercial Joint Stock Bank 	256
+AS63743 	VietNam payment solution joint stock company 	256
+AS63766 	VEGAGAME-VN 	256
+AS23914 	One-Connection Internet Company 	0
+AS45897 	Mobifone Global JSC 	0
+AS45898 	VNPT Corp 	0
+AS23899 	Vietnam Internet network information center (VNNIC) 	0
+AS131400 	Global Data Joint Stock Company 	0
+AS131399 	AI-Solutions Company Limited 	0
+AS131395 	Van phong dieu phoi Chuong trinh muc tieu quoc gia 	0
+AS213370 	Kreative Multimedia Company Limited 	0
+AS201389 	Luxoft Professional Romania S.R.L. 	0
+AS135996 	Be Group Joint Stock Company 	0
+AS131393 	Minh Phat Telecomunication service Company Limited 	0
+AS135995 	TLINKVN Technology Connection Joint Stock Company 	0
+AS135993 	IPTP Networks Company Limited 	0
+AS131384 	Viet Solutions Services Trading Company Limited 	0
+AS135992 	Vietnam Directorate of Market Surveillance 	0
+AS131382 	ETRUSTCLOUD Company, Ltd. 	0
+AS135990 	Everest Global Joint Stock Company 	0
+AS55314 	NEWLIFE COMPANY 	0
+AS135989 	Tay Ninh Department of Information and Communications 	0
+AS63763 	VCCORP-VN 	0
+AS135987 	Reload Company Limited 	0
+AS135984 	Tinomail Company Limited 	0
+AS131378 	Cloud Viet Technology Company Limited 	0
+AS55320 	CLICKASEND-AS-VN 	0
+AS55321 	Saigontourist securities corporation 	0
+AS135983 	Tino Group Joint Stock Company 	0
+AS131370 	NETNAM Company 	0
+AS131129 	Hochiminh Stock Exchange 	0
+AS135979 	SaoBacDau Technology Service JSC 	0
+AS131359 	ACB Securities Co. Ltd 	0
+AS56143 	VDATA-VN 	0
+AS131350 	Dak Nong Department of Information and Communications 	0
+AS56145 	Thanh Nien Net Telecom JSC 	0
+AS135975 	Sea Gem Company Limited 	0
+AS135973 	Bamboo Airways Company Limited 	0
+AS135968 	Early Start Joint Stock Company 	0
+AS135967 	Bach Kim Network solutions Join stock company 	0
+AS135966 	Edutop64 Training Development and Investment Corporation 	0
+AS135960 	Ha Dong Storage Joint Stock Company 	0
+AS56152 	BStar Joint Stock Company 	0
+AS135950 	Binh Duong E-Government Information Center 	0
+AS56154 	THEGIOISO-VN 	0
+AS135948 	S-Trading Company Limited 	0
+AS56156 	Vietnam Internet Network Information Center 	0
+AS131346 	THREEDOTCOM-VN 	0
+AS135941 	Play 17 Vietnam Company Limited 	0
+AS135933 	Bac A Commercial Joint Stock Bank 	0
+AS56160 	VIETNIX Solution and Technology Joint Stock Company 	0
+AS135931 	Information Center - Committee for ethnic minorities affairs 	0
+AS135930 	Representative office of Ligh technology viet joint stock company 	0
+AS135928 	Digital Convergence Technology Solutions Company Limited 	0
+AS135914 	Quang Trung Software City Development Company 	0
+AS135910 	Vien Thong A import export trading production corporation 	0
+AS135907 	VI NA Host Co., ltd 	0
+AS131344 	FIBO Limited Company 	0
+AS63737 	VietServer Services technology company limited 	0
+AS63738 	GLTEC-VN 	0
+AS63739 	NEW CENTURY TECHNOLOGY CO.,LTD 	0
+AS135906 	Nhat Tien Chung Telecommunication Informatics Company Limited 	0
+AS135903 	FFC joint stock company 	0
+AS135902 	Hahalolo Travel Social Network Joint Stock Company 	0
+AS131131 	SHB Securities Joint Stock Company (SHBS) 	0
+AS135901 	Phuong Dong technology solution company limited 	0
+AS63745 	NTT VietNam Communication Company Limited 	0
+AS131441 	May Chu Viet Company Limited 	0
+AS131436 	VSS-VN 	0
+AS131432 	Cyber Link Service Trading Corporation 	0
+AS131424 	Online Solution Company Limited 	0
+AS63750 	18 Nguyen Du, Hai Ba Trung, Hanoi 	0
+AS131422 	Emobi games jsc 	0
+AS131420 	Truong Quoc te da cap Anh - HaNoi (BIS HANOI) 	0
+AS131416 	Cloudone Technology Company Limited 	0
+AS38739 	Vietnam Internet network information center (VNNIC) 	0
+AS38729 	Kien Cuong International JSC 	0
+AS38728 	APNIC ASN block 	0
+AS38725 	APNIC ASN block 	0
+AS38253 	Hanoi Telecom JSC 	0
+AS45545 	Sai Gon Telecommunication and Technology Corp 	0
+AS38246 	CDMA Mobile Phone Center S-Telecom 	0
+AS38245 	APNIC ASN block 	0
+AS38010 	METRO-nom GmbH 	0
+AS131411 	VietNamNet 	0
+AS131409 	ACT Telecomunication Joint Stock Company 	0
+AS24177 	iNET Media Company Ltd 	0
+AS45553 	VNNIC 	0
+AS45554 	Vietnam Internet network information center (VNNIC) 	0
+AS45555 	Capital Securities Company 	0
+AS131406 	CTC Media Technology Apply Joint Stock Company 	0
+AS24176 	Branch of Netnam Company in Ho Chi Minh City 	0
+AS24087 	VNGT-AS-AP 	0
+AS45895 	Mobifone Global JSC 	0
