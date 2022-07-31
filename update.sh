@@ -3,7 +3,7 @@
 IPINFO_VN=https://ipinfo.io/countries/vn
 
 # listing all ASNs in Vietnam
-curl -s "$IPINFO_VN" | grep '<td class="p-3"><a href="/AS' | sed -e 's/<[^<>]*>//g' -e 's/^[ \t]*//g' > asn.txt
+curl -s "$IPINFO_VN" | grep '<td class="p-3"><a href="/AS' | sed -e 's/<[^<>]*>//g' -e 's/^[ \t]*//g' | sort -tS -k2 -n > asn.txt
 
 # remove old data
 for f in v4.txt v6.txt v4-aggregated.txt v6-aggregated.txt; do
