@@ -4,7 +4,7 @@ IPINFO_VN="https://ipinfo.io/api/data/asns?country=vn&amount=20&page="
 
 # listing all ASNs in Vietnam
 rm -rf asn.txt
-page=1
+page=0
 while [[ true ]]; do
   page_content=$(curl -H 'User-Agent: Firefox' -s "$IPINFO_VN$page" | jq -r '.[]|.asn')
   [[ -z $page_content ]] && break
