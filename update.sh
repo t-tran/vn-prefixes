@@ -1,9 +1,16 @@
 #!/bin/bash
 
-IPINFO_VN=https://ipinfo.io/countries/vn
+IPINFO_VN="https://ipinfo.io/api/data/asns?country=vn&amount=20&page="
 
 # listing all ASNs in Vietnam
-curl -s "$IPINFO_VN" | grep '<td class="p-3"><a href="/AS' | sed -e 's/<[^<>]*>//g' -e 's/^[ \t]*//g' | sort -tS -k2 -n > asn.txt
+rm -rf asn.txt
+page=1
+while [[ true ]]; do
+  page_content=$(curl -H 'User-Agent: Firefox' -s "$IPINFO_VN$page" | jq -r '.[]|.asn')
+  [[ -z $page_content ]] && break
+  echo "$page_content" >> asn.txt
+  let page=$page+1
+done
 
 # remove old data
 for f in v4.txt v6.txt v4-aggregated.txt v6-aggregated.txt; do
