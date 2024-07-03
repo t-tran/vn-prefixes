@@ -1,4 +1,5 @@
 #!/bin/bash
+set -x
 
 IPINFO_VN="https://ipinfo.io/api/data/asns?country=vn&amount=20&page="
 
